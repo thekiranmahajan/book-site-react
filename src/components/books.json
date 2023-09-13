@@ -1,0 +1,38 @@
+[
+      {
+        "title": "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
+        "author": "Robert T. Kiyosaki",
+        "categories": "Financial",
+        "year": "1997",
+        "cover": "https://images-eu.ssl-images-amazon.com/images/I/81BE7eeKzAL._AC_UL600_SR600,400_.jpg"
+      },
+      {
+   
+        "title": "Bhagvad Gita As It Is English New Edition",
+        "author": "A. C. Bhaktivedanta Swami Prabhupad",
+        "categories": "Spiritual",
+        "year": "2020",
+        "cover": "https://images-eu.ssl-images-amazon.com/images/I/91msEbTletL._AC_UL600_SR600,400_.jpg"
+      },{
+   
+        "title": "Flask Web Development",
+        "author": "Miguel Grinberg",
+        "categories": "python,pyhton web development,flask",
+        "year": "2022",
+        "cover": null
+      },{
+   
+        "title": "Flask Web Development",
+        "author": "Miguel Grinberg",
+        "categories": "python,pyhton web development,flask",
+        "year": "2022",
+        "cover": null
+      },{
+   
+        "title": "Flask Web Development",
+        "author": "Miguel Grinberg",
+        "categories": "python,pyhton web development,flask",
+        "year": "2022",
+        "cover": null
+      }
+    ]
